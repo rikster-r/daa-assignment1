@@ -1,1 +1,4 @@
+com\algorithms\metrics\DepthTracker.class
+com\algorithms\metrics\Metrics.class
 com\algorithms\Main.class
+com\algorithms\metrics\CSVWriter.class
