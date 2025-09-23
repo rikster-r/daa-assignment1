@@ -1,0 +1,3 @@
+algorithm,input_size,time_nanos,time_millis,max_depth,comparisons,allocations
+MergeSort,10000,4462600,4,462600,11,127182,230065
+MergeSort,10000,5281100,5,281100,11,126975,229861
