@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb31376-20b7-458f-86ff-3e50af1d66b6" name="Changes" comment="added MergeSort.java">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/mergesort_results.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/algorithms/MergeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/algorithms/MergeSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/algorithms/MergeSort$Metrics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/algorithms/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/algorithms/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/algorithms/MergeSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/algorithms/MergeSortTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758637749149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added MergeSort.java">
+      <option name="closed" value="true" />
+      <created>1758639966928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758639966928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added MergeSort.java">
+      <option name="closed" value="true" />
+      <created>1758639990230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758639990230</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
