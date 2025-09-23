@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb31376-20b7-458f-86ff-3e50af1d66b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/metrics/CSVWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/metrics/DepthTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/metrics/Metrics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/algorithms/CSVWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/algorithms/MetricsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/algorithms/MergeSortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/algorithms/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/algorithms/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="alg1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -43,7 +47,7 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="330wQbJ432tkEyXqCXHDH86wn0p" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -52,9 +56,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/metrics",
+    "git-widget-placeholder": "feature/mergesort",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -99,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758467281593</updated>
       <workItem from="1758467282769" duration="319000" />
-      <workItem from="1758468649734" duration="3192000" />
+      <workItem from="1758468649734" duration="1143000" />
     </task>
     <servers />
   </component>
